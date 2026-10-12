@@ -1,0 +1,15 @@
+{
+  "name": "paroshmoni-paribar-suite",
+  "version": "1.0.0",
+  "description": "Full-stack mobile application and backend suite for Paroshmoni Apartment Community",
+  "scripts": {
+    "start": "npm --prefix client start",
+    "android": "npm --prefix client run android",
+    "web": "npm --prefix client run web",
+    "server": "node server/server.js",
+    "client": "npm --prefix client start"
+  },
+  "keywords": ["apartment", "community", "react-native", "expo", "mysql", "paroshmoni"],
+  "author": "Paroshmoni Paribar",
+  "license": "ISC"
+}
