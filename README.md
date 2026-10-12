@@ -59,7 +59,7 @@ The MySQL schema is provided in `server/schema.sql`:
    ```env
    DB_HOST=localhost
    DB_USER=root
-   DB_PASSWORD=Rohit02165@
+   DB_PASSWORD=xxxxxxx
    DB_NAME=paroshmoni_db
    DB_PORT=3306
    ```
